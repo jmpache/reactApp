@@ -1,0 +1,19 @@
+#button1 {
+    display: block;
+}
+
+#input1 {
+    display: block;
+}
+
+.form-group {
+    display: none;
+}
+
+#button2 {
+    display: none;
+}
+
+#button3 {
+    display: none;
+}

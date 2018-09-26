@@ -1,0 +1,17 @@
+{
+    "cantidad": [8],
+    "personas": [
+        {
+            "nombre": "Juan",
+            "dinero": 345
+        },
+        {
+            "nombre": "Nicolas",
+            "dinero": 270
+        },
+        {
+            "nombre": "Pedro",
+            "dinero": 75
+        }
+    ]
+}
